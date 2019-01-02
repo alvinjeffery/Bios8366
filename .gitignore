@@ -1,5 +1,6 @@
 *.pdf
 *.py[cod]
+*checkpoints*
 
 # C extensions
 *.so
